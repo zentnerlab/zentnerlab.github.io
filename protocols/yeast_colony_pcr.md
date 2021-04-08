@@ -1,4 +1,4 @@
-#Yeast colony PCR
+# Yeast colony PCR
 
 1. Pick part of a colony into a PCR tube using a sterile pipet tip or toothpick. Mark the location of the picked colony with a dot and number on the bottom of the plate so you can go back and pick the rest of it to grow up for a glycerol stock if it is correct.
 
