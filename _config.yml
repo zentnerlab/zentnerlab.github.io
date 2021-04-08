@@ -1,7 +1,2 @@
-theme: jekyll-theme-cayman
+remote-theme: benbalter/retlab
 title: Zentner Lab
-
-source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
