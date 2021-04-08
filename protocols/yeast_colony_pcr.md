@@ -6,17 +6,17 @@
 
 3. For each PCR, prepare the following reaction mix:
 
-  -5 μL 10X Standard Taq buffer (NEB M0273L)
+  *5 μL 10X Standard Taq buffer (NEB M0273L)
 
-  -1 μL 10 mM dNTPs (2.5 mM each dNTP)
+  *1 μL 10 mM dNTPs (2.5 mM each dNTP)
 
-  -1 μL 10 μM forward primer
+  *1 μL 10 μM forward primer
 
-  -1 μL 10 μM reverse primer
+  *1 μL 10 μM reverse primer
 
-  -0.5 μL Taq polymerase (NEB M0273L)
+  *0.5 μL Taq polymerase (NEB M0273L)
 
-  -41.5 μL H2O
+  *41.5 μL H2O
 
 4. Add 50 μL PCR mix to each microwaved colony.
 
