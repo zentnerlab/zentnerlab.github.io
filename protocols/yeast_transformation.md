@@ -2,7 +2,7 @@
 
 [Back to index](https://zentnerlab.github.io/)
 
-###### Note: if you are doing fewer than 5 transformations, you can cut the volumes in steps 2-4 and 7 in half.
+###### -If you are doing fewer than 5 transformations, you can cut the volumes in steps 2-4 and 7 in half.
 
 1. The day before the transformation, inoculate 3 mL YPD or SC medium with a single colony. Grow overnight at 30C.
 
