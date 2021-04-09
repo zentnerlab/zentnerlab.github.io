@@ -15,7 +15,7 @@
     | 10 μM forward primer | 1 μL |
     | 10 μM reverse primer | 1 μL |
     | Taq polymerase (NEB M0273L) | 0.5 μL |
-    | H<sub>2</sub>O | 41.5 μL |
+    | H&#8322;O | 41.5 μL |
 
 4. Add 50 μL PCR mix to each microwaved colony.
 
