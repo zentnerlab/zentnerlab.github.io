@@ -12,7 +12,7 @@
     * 1 μL 10 μM forward primer
     * 1 μL 10 μM reverse primer
     * 0.5 μL Taq polymerase (NEB M0273L)
-    * 41.5 μL H2O
+    * 41.5 μL H<sub>2</sub>O
 
 4. Add 50 μL PCR mix to each microwaved colony.
 
@@ -25,4 +25,4 @@
     * 68C, 5’
     * Hold at 8C
 
-6. Add 10 μL 6X orange loading dye (Lifetech R0631), pipet up and down to mix, and load 10 μL on an agarose gel.
+6. Add 10 μL 6X loading dye, pipet up and down to mix, and load 10 μL on an agarose gel.
