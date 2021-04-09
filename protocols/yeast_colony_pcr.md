@@ -17,6 +17,7 @@
 4. Add 50 μL PCR mix to each microwaved colony.
 
 5. Cycle using the following parameters:
+
     | Step                      | Temperature | Time  |
     |---------------------------|-------------|-------|
     | Initial denaturation      | 95C         | 5'    |
