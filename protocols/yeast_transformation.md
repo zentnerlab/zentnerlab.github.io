@@ -3,8 +3,9 @@
 [Back to index](https://zentnerlab.github.io/)
 
 ##### Notes
-###### -If you are doing fewer than 5 transformations, you can cut the volumes in steps 2-4 and 7 in half.
+-If you are doing fewer than 5 transformations, you can cut the volumes in steps 2-4 and 7 in half.
 
+##### Protocol
 1. The day before the transformation, inoculate 3 mL YPD or SC medium with a single colony. Grow overnight at 30C.
 
 2. In the morning, dilute the overnight culture to OD600 = 0.3-0.4 in 50 mL YPD or SC medium. Grow 50 mL culture until OD600 = 1.0-1.2 (this should take 4-5 hr).
