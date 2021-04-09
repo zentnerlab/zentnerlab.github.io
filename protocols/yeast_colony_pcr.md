@@ -21,8 +21,8 @@
 
 5. Cycle using the following parameters:
 
-    | Step                      | Temperature | Time     |
-    |---------------------------|----------_---|----------|
+    | Step                      | Temperature  | Time     |
+    |---------------------------|--------------|----------|
     | Initial denaturation      | 95C          | 5'       |
     | Amplification (35 cycles) | 95C          | 30"      |
     |                           | 55C          | 30"      |
