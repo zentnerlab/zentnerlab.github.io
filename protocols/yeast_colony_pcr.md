@@ -21,13 +21,13 @@
 
 5. Cycle using the following parameters:
 
-    | Step                      | Temperature | Time  |
-    |---------------------------|-------------|-------|
-    | Initial denaturation      | 95C         | 5'    |
-    | Amplification (35 cycles) | 95C         | 30"   |
-    |                           | 55C         | 30"   |
-    |                           | 68C         | 1'/kb |
-    | Final extension           | 72C         | 5'    |
-    |                           | 4C          | Hold  |
+    | Step                      | Temperature | Time     |
+    |---------------------------|-------------|----------|
+    | Initial denaturation      | 95C         | 5'       |
+    | Amplification (35 cycles) | 95C         | 30"      |
+    |                           | 55C         | 30"      |
+    |                           | 68C         | 1'/kb    |
+    | Final extension           | 72C         | 5'       |
+    | Hold                      | 4C          | &#8734;  |
     
 6. Add 10 μL 6X loading dye, pipet up and down to mix, and load 10 μL on an agarose gel.
