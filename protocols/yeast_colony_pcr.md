@@ -19,9 +19,9 @@
 5. Cycle using the following parameters:
     * 95C, 5’
     * 35 cycles of:
-    * 95C, 30”
-    * 55C, 30”
-    * 68C, 1’/kb
+        * 95C, 30”
+        * 55C, 30”
+        * 68C, 1’/kb
     * 68C, 5’
     * Hold at 8C
 
