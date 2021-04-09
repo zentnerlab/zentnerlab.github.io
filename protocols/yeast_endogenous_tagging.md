@@ -3,7 +3,8 @@
 [Back to index](https://zentnerlab.github.io/)
 
 ##### Notes
--This protocol can be used with any pFA6a-based tagging vector and the [F2/R1 primer pairs](http://yeastgfp.yeastgenome.org/yeastGFPOligoSequence.txt) used to construct the yeast GFP collection. 
+-This protocol can be used with any pFA6a-based tagging vector and the <a href="http://yeastgfp.yeastgenome.org/yeastGFPOligoSequence.txt" target="_blank">F2/R1 primer pairs</a> used to construct the yeast GFP collection. 
+
 -For small epitope tags (i.e. 3xFLAG, 3xHA), a 45” extension time works well. For large tags (i.e. AID, 3xFLAG-MNase), a 1’15” extension time is needed.
 
 ##### Protocol
