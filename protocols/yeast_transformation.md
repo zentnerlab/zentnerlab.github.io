@@ -20,13 +20,13 @@
 
 8. Prepare the following transformation mix for each sample, plus one extra:
 
-|                      | 1 transformation | 5 (+1) transformations |
-|----------------------|------------------|------------------------|
-| 50% w/v PEG-3350     | 240 µL           |	1440 µL                |
-| 1 M LiAc	           | 36 µL            |	216 µL                 |
-| Boiled 2 mg/mL ssDNA | 50 µL            |	300 µL                 |
-| DNA + H<sub>2</sub>O | 34 µL	          | 204 µL                 |
-| Total	               | 360 µL           |	2160 µL                |
+    |                      | 1 transformation | 5 (+1) transformations |
+    |----------------------|------------------|------------------------|
+    | 50% w/v PEG-3350     | 240 µL           |	1440 µL                |
+    | 1 M LiAc	           | 36 µL            |	216 µL                 |
+    | Boiled 2 mg/mL ssDNA | 50 µL            |	300 µL                 |
+    | DNA + H<sub>2</sub>O | 34 µL	          | 204 µL                 |
+    | Total	               | 360 µL           |	2160 µL                |
 
 9. Add 360 µL transformation mix to each cell pellet and resuspend by vortexing.
 
