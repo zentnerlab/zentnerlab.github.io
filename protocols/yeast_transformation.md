@@ -18,7 +18,7 @@
 
 6. Place denatured ssDNA in an ice/water bath.
 
-7. Resuspend cells in 1 mL H&#8322;O, transfer 100 µL aliquots to new microfuge tubes, and pellet as above.
+7. Resuspend cells in 1 mL H&#8322;O, transfer 100 μL aliquots to new microfuge tubes, and pellet as above.
 
 8. Prepare the following transformation mix for each sample, plus one extra:
 
@@ -30,10 +30,10 @@
     | DNA + H&#8322;O      | 34 μL	          | 204 μL                 |
     | Total	               | 360 μL           |	2160 μL                |
 
-9. Add 360 µL transformation mix to each cell pellet and resuspend by vortexing.
+9. Add 360 μL transformation mix to each cell pellet and resuspend by vortexing.
 
 10. Incubate the samples at 42C for 40 min.
 
 11. Pellet cells at 6,000 x g for 30 sec.
 
-12. Resuspend cells in 200 µL H&#8322;O and plate.  
+12. Resuspend cells in 200 μL H&#8322;O and plate.  
