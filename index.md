@@ -5,4 +5,6 @@
 
 [Transformation](protocols/yeast_transformation.md)
 
+[Western Blot](protocols/yeast_western_blot.md)
+
 ## Lab wisdom
