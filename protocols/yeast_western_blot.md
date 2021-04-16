@@ -32,7 +32,7 @@ You will need:
 - **4X LDS Sample Buffer** \(Bio-Rad #1610747\)
   - or whatever sample/loading buffer you'd like \(adjust volumes as necessary\)
 - **1M DTT**
-- **Yeast Cells** \(1-2ml of overnight culture or ~6+ OD·ml of timecourse usually yields plenty\)
+- **Yeast Cells** \(1-2ml of saturated overnight culture or ~6+ OD·ml of timecourse usually yields plenty\)
 
 
 ## Method
@@ -41,11 +41,11 @@ You will need:
 1. Pellet, aspirate, and resuspend cells in 150µl Lysis Buffer
 2. Heat @ 95°C for 5m
 3. Remove from heat and neutralize with 3.75µl 4M Acetic Acid, vortex
-  - this is important - if your sample buffer below turns yellow or clear, you forgot!
+    - this is important - if your sample buffer below turns yellow or clear, you forgot!
 4. Add 50µl 4X Sample Buffer \(w/ DTT added 1:9, 100mM\), vortex
 5. Heat @ 95°C for another 2m \(you can set up your gel rig during this time\)
 6. CLEAR THE LYSATE - spin for 2m at maximum speed to pellet cell debris \(room temp\)
-  - IMPORTANT - if your lanes are ever smeary, you might be dragging along DNA / insoluble gunk during electrophoresis
+    - IMPORTANT - if your lanes are ever smeary, you might be dragging along DNA / insoluble gunk during electrophoresis
 7. Load the supernatant / soluble protein fraction in the gel relative to any normalization measurements made, and proceed with the blot.
 
 
